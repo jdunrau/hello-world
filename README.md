@@ -1,2 +1,3 @@
 # hello-world
-The guide told me to.
+
+Very new to everything.
